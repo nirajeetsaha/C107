@@ -1,0 +1,1 @@
+https://teachablemachine.withgoogle.com/models/g5Woowep6/model.json
